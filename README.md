@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning VueJS
 - 📫 How to reach me: charlesong173@gmail.com
 
-![Leetcode Stats](https://leetcode.card.workers.dev/charlesong?theme=default&font=baloo&extension=null)
+![Leetcode Stats](https://leetcode.card.workers.dev/charlesong?theme=default&font=baloo&extension=activity)
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
