@@ -1,6 +1,6 @@
 ### Hi, I'm Charles 👋
 
-- 🎓 I am a Masters student majoring in Artificial Intelligence at Curtin University
+- 🎓 I'm a Master's student majoring in Artificial Intelligence at Curtin University
 - 🌱 I’m currently learning about stochastic and connectionist approaches in Machine Learning using PyTorch
 - 🔭 I’m currently working on [ParkSpot Perth](https://parkspotperth.netlify.app/)
 - 📫 How to reach me: charlesong173@gmail.com
