@@ -1,6 +1,6 @@
 ### Hi, I'm Charles 👋
 
-- 🎓 I'm a Master's student majoring in Artificial Intelligence at Curtin University
+- 🎓 I'm a Master's graduate in Artificial Intelligence from Curtin University
 - 📫 How to reach me: charlesong173@gmail.com
 
 <!-- - 👯 I’m looking to collaborate on ...
